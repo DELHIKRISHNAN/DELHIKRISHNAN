@@ -1,27 +1,30 @@
-name: Generate Snake Animation
+name: Generate Arcade Contribution Graphs
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: DELHIKRISHNAN
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23ffffff&color_dots=%230d0d0d,%232b2b2b,%23555555,%23999999,%23ffffff
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ffffff&color_dots=%23111111,%232e2e2e,%23555555,%23999999,%23ffffff
+          # comma-separated list — add more games here if you want them, e.g. 'pacman,breakout'
+          games: "pacman"
 
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
