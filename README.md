@@ -18,7 +18,11 @@
 
 ### 01 — STACK
 
-Mostly Python and JavaScript day to day. On the security side: `nmap`, `burp suite`, `metasploit`, `wireshark`, `nuclei`, `splunk`. For building things: `django` / `react` / `node` + `express`, backed by `firebase` or `postgres`. The AI/CV side runs on `opencv`, basic `CNN` / `SVM` models, and sentence-BERT for NLP work. Daily driver is Kali on Linux, Ubuntu on the Pi boards.
+Mostly Python and JavaScript day to day.
+On the security side: `nmap`, `burp suite`, `metasploit`, `wireshark`, `nuclei`, `splunk`. 
+For building things: `django` / `react` / `node` + `express`, backed by `firebase` or `postgres`. 
+The AI/CV side runs on `opencv`, basic `CNN` / `SVM` models, and sentence-BERT for NLP work. 
+Daily driver is Kali on Linux, Ubuntu on the Pi boards.
 
 <br clear="left"/>
 
@@ -111,11 +115,11 @@ Platform for managing a startup incubation cohort.
 ### 05 — AWARDS & CERTIFICATIONS
 
 **Awards**
-- TUM Germany — Global Sustainability Challenge, top performer (EUR 1,400)
-- CISCO thingQbator, Cohort 8 winner — Rs. 5,00,000 seed funding (CISCO × NASSCOM Foundation)
-- Siemens Design Challenge 2026, top performer (Siemens × Sony)
-- Smart India Hackathon 2025 — finalist
-- IIT Madras / IIT PALS InnoWAH — Rs. 10,000 award
+- TUM Germany — Global Sustainability Challenge, **top performer (EUR 1,400)**
+- CISCO thingQbator, Cohort 8 winner —** Rs. 5,00,000 seed funding (CISCO × NASSCOM Foundation)**
+- Siemens Design Challenge 2026, **top performer (Siemens × Sony)**
+- Smart India Hackathon 2025 — **finalist**
+- IIT Madras / IIT PALS InnoWAH — **Rs. 10,000 award**
 
 **Certifications**
 - Python Essentials I & II — Cisco Networking Academy
