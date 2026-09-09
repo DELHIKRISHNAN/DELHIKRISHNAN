@@ -1,14 +1,4 @@
-> **Setup — read this first, or the images stay broken**
->
-> The images in this README (`hero_terminal.png` + 5 stickers) are referenced by *relative path*, meaning GitHub looks for them inside your own repo. They will not show up until you upload them there.
->
-> 1. Go to your profile repo → **`github.com/DELHIKRISHNAN/DELHIKRISHNAN`**
-> 2. Create a folder in the repo root named exactly `assets`
-> 3. Upload all 6 PNG files (`hero_terminal.png`, `sticker_lock.png`, `sticker_code.png`, `sticker_chip.png`, `sticker_drone.png`, `sticker_mark.png`) into that `assets` folder — drag-and-drop works fine on github.com ("Add file → Upload files")
-> 4. Replace `README.md` in the repo root with this file
-> 5. Commit straight to `main` (this repo has no branch protection by default, so this is safe)
->
-> Once `assets/hero_terminal.png` exists at that exact path, the terminal image below will render.
+
 
 <br>
 
