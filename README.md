@@ -1,425 +1,92 @@
-<div align="center">
+# Delhi Krishnan S
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,25:0F3460,50:16A085,75:1ABC9C,100:2ECC71&text=Delhi%20Krishnan%20S&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20IoT&descSize=18&descAlignY=55&descAlign=50" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2800&pause=1200&color=A0A0A0&background=00000000&center=false&vCenter=true&width=520&height=30&lines=cybersecurity+%2B+full-stack+%2B+computer+vision+%2B+iot" />
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Cybersecurity+Researcher+%7C+Full-Stack+Developer;AI+%26+Computer+Vision+Engineer+%7C+IoT+Innovator;CISCO+thingQbator+Winner+%7C+TUM+Germany+Awardee;Building+NIGHTFALL+%7C+ZORO+Framework+%7C+URISS" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=DELHIKRISHNAN&label=Profile%20Views&color=1ABC9C&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/DELHIKRISHNAN?label=Followers&style=for-the-badge&color=16A085&logo=github&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/DELHIKRISHNAN?affiliations=OWNER&style=for-the-badge&color=2ECC71&logo=github&logoColor=white" />
-
-</div>
+Coimbatore, Tamil Nadu — building things that sit somewhere between security, software and hardware. Currently finishing a B.Tech in Computer Science & Business Systems, and spending most of my free time on **NIGHTFALL**, an agentic pentesting tool.
 
 ---
 
-<div align="center">
+<img src="assets/sticker_code.png" width="30" align="left" style="margin-right:10px" />
 
-### Securing Systems • Building Applications • Engineering Intelligence • Innovating IoT
+### what i work with
 
-</div>
+Mostly Python and JavaScript day to day. On the security side that's `nmap`, `burp suite`, `metasploit`, `wireshark`, some `nuclei` and `splunk` for the blue-team stuff. For building things I reach for `django` / `react` / `node` + `express`, usually with `firebase` or `postgres` behind it. The AI/CV work leans on `opencv`, basic `CNN` / `SVM` models, and sentence-BERT for anything NLP-flavoured. Daily driver is Kali on top of Linux, sometimes Ubuntu on the Pi boards.
 
-## About Me
-
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-<br>
-
-**B.Tech in Computer Science & Business Systems** @ KIT-Kalaignarkarunanidhi Institute of Technology (CGPA: 8.2)
-
-Passionate about **Web Application Security** — VAPT, OWASP Top 10, Penetration Testing
-
-Experienced **Full-Stack Developer** — Django, React.js, Node.js, Express.js
-
-Building **AI & Computer Vision** systems — OpenCV, CNN, SVM, NLP, OCR
-
-Creating **IoT solutions** — From smart water monitoring to drone-based agriculture
-
-**CISCO thingQbator Winner** — Rs. 5,00,000 Seed Funding
-
-**TUM Germany Top Performer** — EUR 1,400 Award
-
-Currently building **[NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL)** — An agentic penetration testing platform
-
-Coimbatore, Tamil Nadu, India
-
-<br clear="right"/>
+<br clear="left"/>
 
 ---
 
-## Tech Arsenal
+<img src="assets/sticker_drone.png" width="30" align="left" style="margin-right:10px" />
 
-<div align="center">
+### currently building
 
-### Programming Languages
+**[NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL)** — an agentic penetration testing platform that reasons through recon, triage and exploitation instead of running a fixed script.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,java" />
-</p>
+Also maintaining **[ZORO](https://github.com/DELHIKRISHNAN/zoro_framework)**, a smaller web security scanner for authorised testing, and tinkering with a drone-based crop monitoring rig on a Raspberry Pi 5 + Pixhawk.
 
-### Cybersecurity & Networking
-
-<p>
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VAPT-1ABC9C?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nuclei-7B61FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netcat-16A085?style=for-the-badge"/>
-</p>
-
-### Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,expressjs,react,django,flask" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,postgres" />
-</p>
-
-### AI & Computer Vision
-
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SVM-1ABC9C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-7B2CBF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OCR-E34F26?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sentence_BERT-FFCA28?style=for-the-badge"/>
-</p>
-
-### Operating Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,raspberrypi" />
-</p>
-
-### Networking Protocols
-
-<p>
-  <img src="https://img.shields.io/badge/TCP%2FIP-0D1117?style=for-the-badge&logo=cisco&logoColor=1ABC9C"/>
-  <img src="https://img.shields.io/badge/DNS-0D1117?style=for-the-badge&logo=cloudflare&logoColor=1ABC9C"/>
-  <img src="https://img.shields.io/badge/LDAP-0D1117?style=for-the-badge&logoColor=1ABC9C"/>
-  <img src="https://img.shields.io/badge/SMB-0D1117?style=for-the-badge&logoColor=1ABC9C"/>
-  <img src="https://img.shields.io/badge/Kerberos-0D1117?style=for-the-badge&logoColor=1ABC9C"/>
-  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-0D1117?style=for-the-badge&logo=letsencrypt&logoColor=1ABC9C"/>
-  <img src="https://img.shields.io/badge/RPC-0D1117?style=for-the-badge&logoColor=1ABC9C"/>
-</p>
-
-</div>
+<br clear="left"/>
 
 ---
 
-## Work Experience
+### experience
 
-<div align="center">
+**Nanvi Technologies** — Software Development Intern
 
-<img src="https://img.shields.io/badge/Nanvi_Technologies-Software_Development_Intern-1ABC9C?style=for-the-badge&logo=building-construction&logoColor=white"/>
+Built an AI resume analyzer using Sentence-BERT for resume-to-job-description matching (~92% accuracy), with OCR for parsing scanned/PDF resumes. Django backend, React frontend. Cut manual screening time by roughly 70%.
 
-</div>
-
-<br>
-
-> Built an **AI-powered Resume Analyzer** using Sentence-BERT for semantic resume-JD matching — **92% matching accuracy**
->
-> Integrated **OCR** to extract text from PDF and image-based resumes for automated analysis
->
-> Developed backend using **Django** and responsive frontend using **React.js**
->
-> Implemented resume parsing & skill extraction — **reduced manual screening by 70%**
->
-> **Tech Stack:** `Django` `React.js` `Sentence-BERT` `OCR` `Python` `REST API`
+`Django` `React` `Sentence-BERT` `OCR` `REST API`
 
 ---
 
-## Featured Projects
+### projects
 
-<table>
-<tr>
-
-<td width="50%">
-
-### [NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL)
-**Agentic Penetration Testing Platform**
-
-Stars: 1 • Forks: 1
-
-An agentic, reasoning-driven penetration testing platform that autonomously discovers, triages, and exploits web vulnerabilities.
-
-`Python` `Security` `AI Agents` `Automation`
-
-</td>
-
-<td width="50%">
-
-### [ZORO Framework](https://github.com/DELHIKRISHNAN/zoro_framework)
-**Web Security Scanner**
-
-A modular, high-performance Python web security scanner for authorised penetration testing and security audits. Performs passive analysis and safe, non-destructive active checks.
-
-`Python` `OWASP` `Security Testing`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### [Resume Screening Portal](https://github.com/DELHIKRISHNAN/Resume-Screening-Portal)
-**AI-Powered Resume Analyzer**
-
-AI-powered Resume Analyzer that evaluates resumes against job descriptions, extracts key skills, highlights gaps, and provides actionable improvement suggestions.
-
-`Python` `Sentence-BERT` `Django` `React.js`
-
-</td>
-
-<td width="50%">
-
-### [NDVI Crop Monitoring Drone](https://github.com/DELHIKRISHNAN/ndvi-crop-monitoring-drone)
-**Precision Agriculture System**
-
-Drone-based NDVI crop monitoring using Raspberry Pi 5, Pixhawk Cube Orange, and OpenCV. Combines aerial vegetation analysis with ground-based soil sensing.
-
-`Python` `OpenCV` `Raspberry Pi` `Computer Vision`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### [Smart Water Management](https://github.com/DELHIKRISHNAN/S-W-M-Portal)
-**IoT-Based Monitoring System**
-
-Real-time household water consumption tracking with Firebase integration. Features interactive Chart.js dashboards with daily, weekly, and monthly consumption trends.
-
-`Node.js` `Express.js` `Firebase` `Chart.js`
-
-</td>
-
-<td width="50%">
-
-### [Microplastic Detector](https://github.com/DELHIKRISHNAN/MICROPLASTIC_DETECTOR)
-**Computer Vision Detection System**
-
-Portable computer vision system for automated microplastic detection from water samples. Uses CNN and SVM achieving **86% classification accuracy** on 1000+ labeled images.
-
-`Python` `CNN` `SVM` `OpenCV`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### [URISS](https://github.com/DELHIKRISHNAN/URISS)
-**Underwater Search & Rescue ROV**
-
-Compact Underwater Remotely Operated Vehicle designed for search and rescue missions in turbulent water bodies. Features real-time video monitoring and autonomous navigation.
-
-`Python` `Robotics` `Computer Vision`
-
-</td>
-
-<td width="50%">
-
-### [Incubation Portal](https://github.com/DELHIKRISHNAN/INCUBATION-PORTAL)
-**Startup Incubation Platform**
-
-Web-based platform for startup incubation management with comprehensive features for mentors, startups, and administrators.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-</tr>
-
-</table>
+| Project | What it does | Stack |
+|---|---|---|
+| [NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL) | Agentic pentesting platform — recon, triage, exploit | Python, AI agents |
+| [ZORO Framework](https://github.com/DELHIKRISHNAN/zoro_framework) | Modular web security scanner for authorised audits | Python, OWASP |
+| [Resume Screening Portal](https://github.com/DELHIKRISHNAN/Resume-Screening-Portal) | Matches resumes to job descriptions, flags gaps | Sentence-BERT, Django, React |
+| [NDVI Crop Monitoring Drone](https://github.com/DELHIKRISHNAN/ndvi-crop-monitoring-drone) | Aerial + ground sensing for precision agriculture | Raspberry Pi, OpenCV |
+| [Smart Water Management](https://github.com/DELHIKRISHNAN/S-W-M-Portal) | Household water usage dashboard, Firebase-backed | Node, Express, Firebase |
+| [Microplastic Detector](https://github.com/DELHIKRISHNAN/MICROPLASTIC_DETECTOR) | CV pipeline for detecting microplastics in water samples (~86% accuracy) | Python, CNN, SVM |
+| [URISS](https://github.com/DELHIKRISHNAN/URISS) | Compact underwater ROV for search & rescue | Python, robotics |
+| [Incubation Portal](https://github.com/DELHIKRISHNAN/INCUBATION-PORTAL) | Platform for managing a startup incubation cohort | HTML, CSS, JS |
 
 ---
 
-## Achievements & Awards
+### awards
 
-<div align="center">
+- TUM Germany — Global Sustainability Challenge, top performer (EUR 1,400)
+- CISCO thingQbator, Cohort 8 winner — Rs. 5,00,000 seed funding (CISCO × NASSCOM Foundation)
+- Siemens Design Challenge 2026, top performer (Siemens × Sony, immersive design track)
+- Smart India Hackathon 2025 — finalist
+- IIT Madras / IIT PALS InnoWAH — Rs. 10,000 award
 
-<img src="https://img.shields.io/badge/TUM_Germany-Global_Sustainability_Challenge_Top_Performer-2ECC71?style=for-the-badge"/>
+### certifications
 
-<br>
-
-<img src="https://img.shields.io/badge/EUR_1,400_Award-TUM_Germany-16A085?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/CISCO_thingQbator-Cohort_8_Winner-1ABC9C?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Rs._5,00,000_Seed_Funding-CISCO_%C3%97_NASSCOM_Foundation-16A085?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Siemens_Design_Challenge-2026_Top_Performer-2ECC71?style=for-the-badge&logo=siemens&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Siemens_%C3%97_Sony-Immersive_Design-16A085?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Smart_India_Hackathon-SIH_2025_Finalist-1ABC9C?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/AICTE-Ministry_of_Education's_Innovation_Cell-16A085?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/IIT_Madras-Top_Recognition-2ECC71?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Rs._10,000_Award-IIT_PALS_InnoWAH-16A085?style=for-the-badge"/>
-
-</div>
+- Python Essentials I & II — Cisco Networking Academy
+- CCNA (Networking & Enterprise Security) — Cisco Networking Academy
+- Apply AI: Analyze Customer Reviews — Cisco Networking Academy
 
 ---
 
-## Certifications
+### github stats
 
-<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DELHIKRISHNAN&show_icons=true&hide_border=true&bg_color=000000&title_color=E5E5E5&icon_color=8C8C8C&text_color=A0A0A0&border_radius=8" />
 
-| Certification | Issuing Organization |
-|:---|:---|
-| **Python Essentials I & II** | Cisco Network Academy |
-| **Cisco Certified Networking & Enterprise Security (CCNA)** | Cisco Networking Academy |
-| **Apply AI: Analyze Customer Reviews** | Cisco Network Academy |
+### contribution snake
 
-</div>
+<img src="https://raw.githubusercontent.com/DELHIKRISHNAN/DELHIKRISHNAN/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 ---
 
-## GitHub Analytics
+<img src="assets/sticker_mark.png" width="30" align="left" style="margin-right:10px" />
 
-<div align="center">
+### get in touch
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DELHIKRISHNAN&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=1ABC9C&icon_color=2ECC71&text_color=C9D1D9&ring_color=1ABC9C"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELHIKRISHNAN&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=1ABC9C&text_color=C9D1D9"/>
+<a href="https://www.linkedin.com/in/delhi-krishnan-s/"><img src="https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:delhikrishnan262006@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/DELHIKRISHNAN"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
+Open to internships, security roles and anything full-stack.
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DELHIKRISHNAN&theme=algolia&hide_border=true&background=0D1117&ring=1ABC9C&fire=2ECC71&currStreakLabel=1ABC9C&sideLabels=1ABC9C&dates=C9D1D9"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DELHIKRISHNAN&bg_color=0D1117&color=1ABC9C&line=2ECC71&point=FFFFFF&area_color=1ABC9C&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/DELHIKRISHNAN/DELHIKRISHNAN/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## Current Focus
-
-<div align="center">
-
-```
-Cybersecurity          ->  Building NIGHTFALL & ZORO — Agentic security tools
-AI & Computer Vision   ->  Advancing microplastic detection & drone vision systems
-Full-Stack Development ->  Scaling IoT platforms & real-time dashboards
-Robotics & IoT         ->  Underwater ROV systems & precision agriculture
-Competitions           ->  Hackathons, Innovation Challenges & Open Source
-```
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/delhi-krishnan-s/">
-<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2">
-</a>
-&nbsp;
-<a href="mailto:delhikrishnan262006@gmail.com">
-<img src="https://img.shields.io/badge/Drop_Me_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335">
-</a>
-&nbsp;
-<a href="https://github.com/DELHIKRISHNAN">
-<img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717">
-</a>
-
-<br><br>
-
-**Coimbatore, Tamil Nadu, India**
-
-Open to **internships**, **cybersecurity roles**, **full-stack opportunities**, and **open-source collaborations**
-
-</div>
-
----
-
-<div align="center">
-
-## Securing Systems. Engineering Intelligence. Building the Future.
-
-*"Security is not a product, but a process. I build both the shield and the sword."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0F3460,50:16A085,75:1ABC9C,100:2ECC71&height=120&section=footer"/>
-
-</div>
+<br clear="left"/>
