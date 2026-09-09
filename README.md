@@ -1,12 +1,30 @@
-# Delhi Krishnan S
+> **Setup — read this first, or the images stay broken**
+>
+> The images in this README (`hero_terminal.png` + 5 stickers) are referenced by *relative path*, meaning GitHub looks for them inside your own repo. They will not show up until you upload them there.
+>
+> 1. Go to your profile repo → **`github.com/DELHIKRISHNAN/DELHIKRISHNAN`**
+> 2. Create a folder in the repo root named exactly `assets`
+> 3. Upload all 6 PNG files (`hero_terminal.png`, `sticker_lock.png`, `sticker_code.png`, `sticker_chip.png`, `sticker_drone.png`, `sticker_mark.png`) into that `assets` folder — drag-and-drop works fine on github.com ("Add file → Upload files")
+> 4. Replace `README.md` in the repo root with this file
+> 5. Commit straight to `main` (this repo has no branch protection by default, so this is safe)
+>
+> Once `assets/hero_terminal.png` exists at that exact path, the terminal image below will render.
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2800&pause=1200&color=A0A0A0&background=00000000&center=false&vCenter=true&width=520&height=30&lines=cybersecurity+%2B+full-stack+%2B+computer+vision+%2B+iot" />
+<br>
+
+<div align="center">
+<img src="assets/hero_terminal.png" width="720" />
+</div>
+
+<br>
 
 Coimbatore, Tamil Nadu — building things that sit somewhere between security, software and hardware. Currently finishing a B.Tech in Computer Science & Business Systems, and spending most of my free time on **NIGHTFALL**, an agentic pentesting tool.
 
+<br>
+
 ---
 
-<img src="assets/sticker_code.png" width="30" align="left" style="margin-right:10px" />
+<img src="assets/sticker_code.png" width="34" align="left" style="margin-right:12px" />
 
 ### what i work with
 
@@ -16,7 +34,7 @@ Mostly Python and JavaScript day to day. On the security side that's `nmap`, `bu
 
 ---
 
-<img src="assets/sticker_drone.png" width="30" align="left" style="margin-right:10px" />
+<img src="assets/sticker_drone.png" width="34" align="left" style="margin-right:12px" />
 
 ### currently building
 
@@ -28,6 +46,8 @@ Also maintaining **[ZORO](https://github.com/DELHIKRISHNAN/zoro_framework)**, a 
 
 ---
 
+<img src="assets/sticker_chip.png" width="34" align="left" style="margin-right:12px" />
+
 ### experience
 
 **Nanvi Technologies** — Software Development Intern
@@ -35,6 +55,8 @@ Also maintaining **[ZORO](https://github.com/DELHIKRISHNAN/zoro_framework)**, a 
 Built an AI resume analyzer using Sentence-BERT for resume-to-job-description matching (~92% accuracy), with OCR for parsing scanned/PDF resumes. Django backend, React frontend. Cut manual screening time by roughly 70%.
 
 `Django` `React` `Sentence-BERT` `OCR` `REST API`
+
+<br clear="left"/>
 
 ---
 
@@ -71,15 +93,17 @@ Built an AI resume analyzer using Sentence-BERT for resume-to-job-description ma
 
 ### github stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DELHIKRISHNAN&show_icons=true&hide_border=true&bg_color=000000&title_color=E5E5E5&icon_color=8C8C8C&text_color=A0A0A0&border_radius=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DELHIKRISHNAN&show_icons=true&hide_border=true&bg_color=000000&title_color=E5E5E5&icon_color=5EEAD4&text_color=A0A0A0&border_radius=10" />
 
 ### contribution snake
 
 <img src="https://raw.githubusercontent.com/DELHIKRISHNAN/DELHIKRISHNAN/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
+> If this section is blank: the snake workflow hasn't run yet. See the setup note at the very bottom of this file.
+
 ---
 
-<img src="assets/sticker_mark.png" width="30" align="left" style="margin-right:10px" />
+<img src="assets/sticker_mark.png" width="34" align="left" style="margin-right:12px" />
 
 ### get in touch
 
@@ -90,3 +114,7 @@ Built an AI resume analyzer using Sentence-BERT for resume-to-job-description ma
 Open to internships, security roles and anything full-stack.
 
 <br clear="left"/>
+
+---
+
+<sub>**Snake animation setup:** put `snake.yml` at `.github/workflows/snake.yml` in this repo → Settings → Actions → General → Workflow permissions → "Read and write permissions" → run it once manually from the Actions tab → it creates an `output` branch with the SVGs this README points to.</sub>
