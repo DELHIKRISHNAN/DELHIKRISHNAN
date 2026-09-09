@@ -1,44 +1,44 @@
-
-
-<br>
+> **Before this renders:** upload the `assets` folder (6 PNGs) from this response into the root of `github.com/DELHIKRISHNAN/DELHIKRISHNAN`, and put `snake.yml` at `.github/workflows/snake.yml`. Full steps at the bottom of this file.
 
 <div align="center">
-<img src="assets/hero_terminal.png" width="720" />
+<img src="assets/hero_bw.png" width="820" />
 </div>
 
 <br>
 
-Coimbatore, Tamil Nadu — building things that sit somewhere between security, software and hardware. Currently finishing a B.Tech in Computer Science & Business Systems, and spending most of my free time on **NIGHTFALL**, an agentic pentesting tool.
+<div align="center">
+<sub>building at the edge of security, software and hardware</sub>
+</div>
 
 <br>
 
 ---
 
-<img src="assets/sticker_code.png" width="34" align="left" style="margin-right:12px" />
+<img src="assets/sticker_code.png" width="30" align="left" style="margin-right:12px" />
 
-### what i work with
+### 01 — STACK
 
-Mostly Python and JavaScript day to day. On the security side that's `nmap`, `burp suite`, `metasploit`, `wireshark`, some `nuclei` and `splunk` for the blue-team stuff. For building things I reach for `django` / `react` / `node` + `express`, usually with `firebase` or `postgres` behind it. The AI/CV work leans on `opencv`, basic `CNN` / `SVM` models, and sentence-BERT for anything NLP-flavoured. Daily driver is Kali on top of Linux, sometimes Ubuntu on the Pi boards.
+Mostly Python and JavaScript day to day. On the security side: `nmap`, `burp suite`, `metasploit`, `wireshark`, `nuclei`, `splunk`. For building things: `django` / `react` / `node` + `express`, backed by `firebase` or `postgres`. The AI/CV side runs on `opencv`, basic `CNN` / `SVM` models, and sentence-BERT for NLP work. Daily driver is Kali on Linux, Ubuntu on the Pi boards.
 
 <br clear="left"/>
 
 ---
 
-<img src="assets/sticker_drone.png" width="34" align="left" style="margin-right:12px" />
+<img src="assets/sticker_drone.png" width="30" align="left" style="margin-right:12px" />
 
-### currently building
+### 02 — BUILDING NOW
 
 **[NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL)** — an agentic penetration testing platform that reasons through recon, triage and exploitation instead of running a fixed script.
 
-Also maintaining **[ZORO](https://github.com/DELHIKRISHNAN/zoro_framework)**, a smaller web security scanner for authorised testing, and tinkering with a drone-based crop monitoring rig on a Raspberry Pi 5 + Pixhawk.
+Also maintaining **[ZORO](https://github.com/DELHIKRISHNAN/zoro_framework)**, a web security scanner for authorised testing, and a drone-based crop monitoring rig on a Raspberry Pi 5 + Pixhawk.
 
 <br clear="left"/>
 
 ---
 
-<img src="assets/sticker_chip.png" width="34" align="left" style="margin-right:12px" />
+<img src="assets/sticker_chip.png" width="30" align="left" style="margin-right:12px" />
 
-### experience
+### 03 — EXPERIENCE
 
 **Nanvi Technologies** — Software Development Intern
 
@@ -50,61 +50,112 @@ Built an AI resume analyzer using Sentence-BERT for resume-to-job-description ma
 
 ---
 
-### projects
+### 04 — PROJECTS
 
-| Project | What it does | Stack |
-|---|---|---|
-| [NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL) | Agentic pentesting platform — recon, triage, exploit | Python, AI agents |
-| [ZORO Framework](https://github.com/DELHIKRISHNAN/zoro_framework) | Modular web security scanner for authorised audits | Python, OWASP |
-| [Resume Screening Portal](https://github.com/DELHIKRISHNAN/Resume-Screening-Portal) | Matches resumes to job descriptions, flags gaps | Sentence-BERT, Django, React |
-| [NDVI Crop Monitoring Drone](https://github.com/DELHIKRISHNAN/ndvi-crop-monitoring-drone) | Aerial + ground sensing for precision agriculture | Raspberry Pi, OpenCV |
-| [Smart Water Management](https://github.com/DELHIKRISHNAN/S-W-M-Portal) | Household water usage dashboard, Firebase-backed | Node, Express, Firebase |
-| [Microplastic Detector](https://github.com/DELHIKRISHNAN/MICROPLASTIC_DETECTOR) | CV pipeline for detecting microplastics in water samples (~86% accuracy) | Python, CNN, SVM |
-| [URISS](https://github.com/DELHIKRISHNAN/URISS) | Compact underwater ROV for search & rescue | Python, robotics |
-| [Incubation Portal](https://github.com/DELHIKRISHNAN/INCUBATION-PORTAL) | Platform for managing a startup incubation cohort | HTML, CSS, JS |
+<table>
+<tr><td width="33%">
+
+**[NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL)**
+Agentic pentesting platform — recon, triage, exploit.
+`Python` `AI Agents`
+
+</td><td width="33%">
+
+**[ZORO Framework](https://github.com/DELHIKRISHNAN/zoro_framework)**
+Modular web security scanner for authorised audits.
+`Python` `OWASP`
+
+</td><td width="33%">
+
+**[Resume Screening Portal](https://github.com/DELHIKRISHNAN/Resume-Screening-Portal)**
+Matches resumes to job descriptions, flags gaps.
+`Sentence-BERT` `Django` `React`
+
+</td></tr>
+<tr><td width="33%">
+
+**[NDVI Crop Drone](https://github.com/DELHIKRISHNAN/ndvi-crop-monitoring-drone)**
+Aerial + ground sensing for precision agriculture.
+`Raspberry Pi` `OpenCV`
+
+</td><td width="33%">
+
+**[Smart Water Management](https://github.com/DELHIKRISHNAN/S-W-M-Portal)**
+Household water usage dashboard, Firebase-backed.
+`Node` `Firebase`
+
+</td><td width="33%">
+
+**[Microplastic Detector](https://github.com/DELHIKRISHNAN/MICROPLASTIC_DETECTOR)**
+CV pipeline detecting microplastics (~86% accuracy).
+`Python` `CNN` `SVM`
+
+</td></tr>
+<tr><td width="33%">
+
+**[URISS](https://github.com/DELHIKRISHNAN/URISS)**
+Compact underwater ROV for search & rescue.
+`Python` `Robotics`
+
+</td><td width="33%">
+
+**[Incubation Portal](https://github.com/DELHIKRISHNAN/INCUBATION-PORTAL)**
+Platform for managing a startup incubation cohort.
+`HTML` `CSS` `JS`
+
+</td><td width="33%"></td></tr>
+</table>
 
 ---
 
-### awards
+### 05 — AWARDS & CERTIFICATIONS
 
+**Awards**
 - TUM Germany — Global Sustainability Challenge, top performer (EUR 1,400)
 - CISCO thingQbator, Cohort 8 winner — Rs. 5,00,000 seed funding (CISCO × NASSCOM Foundation)
-- Siemens Design Challenge 2026, top performer (Siemens × Sony, immersive design track)
+- Siemens Design Challenge 2026, top performer (Siemens × Sony)
 - Smart India Hackathon 2025 — finalist
 - IIT Madras / IIT PALS InnoWAH — Rs. 10,000 award
 
-### certifications
-
+**Certifications**
 - Python Essentials I & II — Cisco Networking Academy
 - CCNA (Networking & Enterprise Security) — Cisco Networking Academy
 - Apply AI: Analyze Customer Reviews — Cisco Networking Academy
 
 ---
 
-### github stats
+### 06 — ACTIVITY
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DELHIKRISHNAN&show_icons=true&hide_border=true&bg_color=000000&title_color=E5E5E5&icon_color=5EEAD4&text_color=A0A0A0&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DELHIKRISHNAN&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=0" />
 
-### contribution snake
+The snake below eats one contribution square per frame, in date order — so it visibly **grows a new segment every time it clears a square**, and shrinks again once the trail outruns its length. It's styled as a black-to-white gradient so it matches the rest of the page instead of GitHub's default green.
 
 <img src="https://raw.githubusercontent.com/DELHIKRISHNAN/DELHIKRISHNAN/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-> If this section is blank: the snake workflow hasn't run yet. See the setup note at the very bottom of this file.
-
 ---
 
-<img src="assets/sticker_mark.png" width="34" align="left" style="margin-right:12px" />
+<img src="assets/sticker_mark.png" width="30" align="left" style="margin-right:12px" />
 
-### get in touch
+### 07 — CONTACT
 
-<a href="https://www.linkedin.com/in/delhi-krishnan-s/"><img src="https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:delhikrishnan262006@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/DELHIKRISHNAN"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/delhi-krishnan-s/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:delhikrishnan262006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/DELHIKRISHNAN"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" /></a>
 
-Open to internships, security roles and anything full-stack.
+Open to internships, security roles and full-stack work.
 
 <br clear="left"/>
 
 ---
 
-<sub>**Snake animation setup:** put `snake.yml` at `.github/workflows/snake.yml` in this repo → Settings → Actions → General → Workflow permissions → "Read and write permissions" → run it once manually from the Actions tab → it creates an `output` branch with the SVGs this README points to.</sub>
+<sub>
+
+**Full setup:**
+1. In `github.com/DELHIKRISHNAN/DELHIKRISHNAN`, create a folder `assets/` at the repo root and upload all 6 PNGs from this response into it.
+2. Replace `README.md` with this file, commit to `main`.
+3. Create `.github/workflows/snake.yml` with the workflow from this response.
+4. Settings → Actions → General → Workflow permissions → **Read and write permissions** → Save.
+5. Actions tab → "Generate Snake Animation" → Run workflow (manual trigger, don't wait for the 12-hour cron).
+6. Confirm an `output` branch appears with the two SVGs in it — that's what both image tags above are pointing at.
+
+</sub>
