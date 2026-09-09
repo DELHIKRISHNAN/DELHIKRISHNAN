@@ -126,16 +126,7 @@ Platform for managing a startup incubation cohort.
 
 ### 06 — ACTIVITY
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DELHIKRISHNAN&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=0" />
-
-The snake below eats one contribution square per frame, in date order — so it visibly **grows a new segment every time it clears a square**, and shrinks again once the trail outruns its length. It's styled as a black-to-white gradient so it matches the rest of the page instead of GitHub's default green.
-
-<img src="https://raw.githubusercontent.com/DELHIKRISHNAN/DELHIKRISHNAN/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
----
-
-<img src="assets/sticker_mark.png" width="30" align="left" style="margin-right:12px" />
-
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DELHIKRISHNAN/DELHIKRISHNAN/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DELHIKRISHNAN/DELHIKRISHNAN/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DELHIKRISHNAN/DELHIKRISHNAN/output/pacman-contribution-graph.svg"> </picture>
 ### 07 — CONTACT
 
 <a href="https://www.linkedin.com/in/delhi-krishnan-s/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
