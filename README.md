@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%F0%9F%94%90+Cybersecurity+Researcher+%7C+%F0%9F%8C%90+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Computer+Vision+Engineer+%7C+%F0%9F%8C%B1+IoT+Innovator;%F0%9F%8F%86+CISCO+thingQbator+Winner+%7C+%F0%9F%8C%8D+TUM+Germany+Awardee;%E2%9A%A1+Building+NIGHTFALL+%7C+ZORO+Framework+%7C+URISS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Cybersecurity+Researcher+%7C+Full-Stack+Developer;AI+%26+Computer+Vision+Engineer+%7C+IoT+Innovator;CISCO+thingQbator+Winner+%7C+TUM+Germany+Awardee;Building+NIGHTFALL+%7C+ZORO+Framework+%7C+URISS" />
 
 <br>
 
@@ -22,49 +22,49 @@
 
 <div align="center">
 
-### 🔐 Securing Systems • 🌐 Building Applications • 🤖 Engineering Intelligence • 🛰️ Innovating IoT
+### Securing Systems • Building Applications • Engineering Intelligence • Innovating IoT
 
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## About Me
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 <br>
 
-🎓 **B.Tech in Computer Science & Business Systems** @ KIT-Kalaignarkarunanidhi Institute of Technology (CGPA: 8.2)
+**B.Tech in Computer Science & Business Systems** @ KIT-Kalaignarkarunanidhi Institute of Technology (CGPA: 8.2)
 
-🔒 Passionate about **Web Application Security** — VAPT, OWASP Top 10, Penetration Testing
+Passionate about **Web Application Security** — VAPT, OWASP Top 10, Penetration Testing
 
-💻 Experienced **Full-Stack Developer** — Django, React.js, Node.js, Express.js
+Experienced **Full-Stack Developer** — Django, React.js, Node.js, Express.js
 
-🤖 Building **AI & Computer Vision** systems — OpenCV, CNN, SVM, NLP, OCR
+Building **AI & Computer Vision** systems — OpenCV, CNN, SVM, NLP, OCR
 
-🛰️ Creating **IoT solutions** — From smart water monitoring to drone-based agriculture
+Creating **IoT solutions** — From smart water monitoring to drone-based agriculture
 
-🏆 **CISCO thingQbator Winner** — Rs. 5,00,000 Seed Funding
+**CISCO thingQbator Winner** — Rs. 5,00,000 Seed Funding
 
-🌍 **TUM Germany Top Performer** — EUR 1,400 Award
+**TUM Germany Top Performer** — EUR 1,400 Award
 
-🔨 Currently building **[NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL)** — An agentic penetration testing platform
+Currently building **[NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL)** — An agentic penetration testing platform
 
-📍 Coimbatore, Tamil Nadu, India
+Coimbatore, Tamil Nadu, India
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,java" />
 </p>
 
-### 🔐 Cybersecurity & Networking
+### Cybersecurity & Networking
 
 <p>
   <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/Netcat-16A085?style=for-the-badge"/>
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,nodejs,expressjs,react,django,flask" />
@@ -89,13 +89,13 @@
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase,postgres" />
 </p>
 
-### 🤖 AI & Computer Vision
+### AI & Computer Vision
 
 <p>
   <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
@@ -109,19 +109,19 @@
   <img src="https://img.shields.io/badge/Sentence_BERT-FFCA28?style=for-the-badge"/>
 </p>
 
-### 🖥️ Operating Systems
+### Operating Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows" />
 </p>
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,raspberrypi" />
 </p>
 
-### 🌐 Networking Protocols
+### Networking Protocols
 
 <p>
   <img src="https://img.shields.io/badge/TCP%2FIP-0D1117?style=for-the-badge&logo=cisco&logoColor=1ABC9C"/>
@@ -137,7 +137,7 @@
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 <div align="center">
 
@@ -147,29 +147,29 @@
 
 <br>
 
-> 🤖 Built an **AI-powered Resume Analyzer** using Sentence-BERT for semantic resume-JD matching — **92% matching accuracy**
+> Built an **AI-powered Resume Analyzer** using Sentence-BERT for semantic resume-JD matching — **92% matching accuracy**
 >
-> 📄 Integrated **OCR** to extract text from PDF and image-based resumes for automated analysis
+> Integrated **OCR** to extract text from PDF and image-based resumes for automated analysis
 >
-> ⚙️ Developed backend using **Django** and responsive frontend using **React.js**
+> Developed backend using **Django** and responsive frontend using **React.js**
 >
-> 🎯 Implemented resume parsing & skill extraction — **reduced manual screening by 70%**
+> Implemented resume parsing & skill extraction — **reduced manual screening by 70%**
 >
 > **Tech Stack:** `Django` `React.js` `Sentence-BERT` `OCR` `Python` `REST API`
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 🌙 [NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL)
+### [NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL)
 **Agentic Penetration Testing Platform**
 
-⭐ 1 • 🍴 1
+Stars: 1 • Forks: 1
 
 An agentic, reasoning-driven penetration testing platform that autonomously discovers, triages, and exploits web vulnerabilities.
 
@@ -179,7 +179,7 @@ An agentic, reasoning-driven penetration testing platform that autonomously disc
 
 <td width="50%">
 
-### ⚔️ [ZORO Framework](https://github.com/DELHIKRISHNAN/zoro_framework)
+### [ZORO Framework](https://github.com/DELHIKRISHNAN/zoro_framework)
 **Web Security Scanner**
 
 A modular, high-performance Python web security scanner for authorised penetration testing and security audits. Performs passive analysis and safe, non-destructive active checks.
@@ -194,7 +194,7 @@ A modular, high-performance Python web security scanner for authorised penetrati
 
 <td width="50%">
 
-### 📄 [Resume Screening Portal](https://github.com/DELHIKRISHNAN/Resume-Screening-Portal)
+### [Resume Screening Portal](https://github.com/DELHIKRISHNAN/Resume-Screening-Portal)
 **AI-Powered Resume Analyzer**
 
 AI-powered Resume Analyzer that evaluates resumes against job descriptions, extracts key skills, highlights gaps, and provides actionable improvement suggestions.
@@ -205,7 +205,7 @@ AI-powered Resume Analyzer that evaluates resumes against job descriptions, extr
 
 <td width="50%">
 
-### 🛰️ [NDVI Crop Monitoring Drone](https://github.com/DELHIKRISHNAN/ndvi-crop-monitoring-drone)
+### [NDVI Crop Monitoring Drone](https://github.com/DELHIKRISHNAN/ndvi-crop-monitoring-drone)
 **Precision Agriculture System**
 
 Drone-based NDVI crop monitoring using Raspberry Pi 5, Pixhawk Cube Orange, and OpenCV. Combines aerial vegetation analysis with ground-based soil sensing.
@@ -220,7 +220,7 @@ Drone-based NDVI crop monitoring using Raspberry Pi 5, Pixhawk Cube Orange, and 
 
 <td width="50%">
 
-### 💧 [Smart Water Management](https://github.com/DELHIKRISHNAN/S-W-M-Portal)
+### [Smart Water Management](https://github.com/DELHIKRISHNAN/S-W-M-Portal)
 **IoT-Based Monitoring System**
 
 Real-time household water consumption tracking with Firebase integration. Features interactive Chart.js dashboards with daily, weekly, and monthly consumption trends.
@@ -231,7 +231,7 @@ Real-time household water consumption tracking with Firebase integration. Featur
 
 <td width="50%">
 
-### 🔬 [Microplastic Detector](https://github.com/DELHIKRISHNAN/MICROPLASTIC_DETECTOR)
+### [Microplastic Detector](https://github.com/DELHIKRISHNAN/MICROPLASTIC_DETECTOR)
 **Computer Vision Detection System**
 
 Portable computer vision system for automated microplastic detection from water samples. Uses CNN and SVM achieving **86% classification accuracy** on 1000+ labeled images.
@@ -246,7 +246,7 @@ Portable computer vision system for automated microplastic detection from water 
 
 <td width="50%">
 
-### 🤖 [URISS](https://github.com/DELHIKRISHNAN/URISS)
+### [URISS](https://github.com/DELHIKRISHNAN/URISS)
 **Underwater Search & Rescue ROV**
 
 Compact Underwater Remotely Operated Vehicle designed for search and rescue missions in turbulent water bodies. Features real-time video monitoring and autonomous navigation.
@@ -257,7 +257,7 @@ Compact Underwater Remotely Operated Vehicle designed for search and rescue miss
 
 <td width="50%">
 
-### 🏥 [Incubation Portal](https://github.com/DELHIKRISHNAN/INCUBATION-PORTAL)
+### [Incubation Portal](https://github.com/DELHIKRISHNAN/INCUBATION-PORTAL)
 **Startup Incubation Platform**
 
 Web-based platform for startup incubation management with comprehensive features for mentors, startups, and administrators.
@@ -272,67 +272,67 @@ Web-based platform for startup incubation management with comprehensive features
 
 ---
 
-## 🏆 Achievements & Awards
+## Achievements & Awards
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🌍_TUM_Germany-Global_Sustainability_Challenge_Top_Performer-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TUM_Germany-Global_Sustainability_Challenge_Top_Performer-2ECC71?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/💰_EUR_1,400_Award-TUM_Germany-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EUR_1,400_Award-TUM_Germany-16A085?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🏆_CISCO_thingQbator-Cohort_8_Winner-1ABC9C?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/CISCO_thingQbator-Cohort_8_Winner-1ABC9C?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/💰_Rs._5,00,000_Seed_Funding-CISCO_×_NASSCOM_Foundation-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rs._5,00,000_Seed_Funding-CISCO_%C3%97_NASSCOM_Foundation-16A085?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🎯_Siemens_Design_Challenge-2026_Top_Performer-2ECC71?style=for-the-badge&logo=siemens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Siemens_Design_Challenge-2026_Top_Performer-2ECC71?style=for-the-badge&logo=siemens&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/🏗️_Siemens_×_Sony-Immersive_Design-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Siemens_%C3%97_Sony-Immersive_Design-16A085?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🇮🇳_Smart_India_Hackathon-SIH_2025_Finalist-1ABC9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Smart_India_Hackathon-SIH_2025_Finalist-1ABC9C?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/📋_AICTE-Ministry_of_Education's_Innovation_Cell-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AICTE-Ministry_of_Education's_Innovation_Cell-16A085?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🎓_IIT_Madras-Top_Recognition-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IIT_Madras-Top_Recognition-2ECC71?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/💰_Rs._10,000_Award-IIT_PALS_InnoWAH-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rs._10,000_Award-IIT_PALS_InnoWAH-16A085?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
-| 🏅 Certification | 🏢 Issuing Organization |
+| Certification | Issuing Organization |
 |:---|:---|
-| 🐍 **Python Essentials I & II** | Cisco Network Academy |
-| 🔒 **Cisco Certified Networking & Enterprise Security (CCNA)** | Cisco Networking Academy |
-| 🤖 **Apply AI: Analyze Customer Reviews** | Cisco Network Academy |
+| **Python Essentials I & II** | Cisco Network Academy |
+| **Cisco Certified Networking & Enterprise Security (CCNA)** | Cisco Networking Academy |
+| **Apply AI: Analyze Customer Reviews** | Cisco Network Academy |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -360,7 +360,7 @@ Web-based platform for startup incubation management with comprehensive features
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -370,23 +370,23 @@ Web-based platform for startup incubation management with comprehensive features
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 <div align="center">
 
 ```
-🔐 Cybersecurity          →  Building NIGHTFALL & ZORO — Agentic security tools
-🤖 AI & Computer Vision   →  Advancing microplastic detection & drone vision systems
-🌐 Full-Stack Development →  Scaling IoT platforms & real-time dashboards
-🛰️ Robotics & IoT         →  Underwater ROV systems & precision agriculture
-🏆 Competitions           →  Hackathons, Innovation Challenges & Open Source
+Cybersecurity          ->  Building NIGHTFALL & ZORO — Agentic security tools
+AI & Computer Vision   ->  Advancing microplastic detection & drone vision systems
+Full-Stack Development ->  Scaling IoT platforms & real-time dashboards
+Robotics & IoT         ->  Underwater ROV systems & precision agriculture
+Competitions           ->  Hackathons, Innovation Challenges & Open Source
 ```
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -404,9 +404,9 @@ Web-based platform for startup incubation management with comprehensive features
 
 <br><br>
 
-📍 **Coimbatore, Tamil Nadu, India**
+**Coimbatore, Tamil Nadu, India**
 
-🎓 Open to **internships**, **cybersecurity roles**, **full-stack opportunities**, and **open-source collaborations**
+Open to **internships**, **cybersecurity roles**, **full-stack opportunities**, and **open-source collaborations**
 
 </div>
 
@@ -414,7 +414,7 @@ Web-based platform for startup incubation management with comprehensive features
 
 <div align="center">
 
-## 💚 Securing Systems. Engineering Intelligence. Building the Future.
+## Securing Systems. Engineering Intelligence. Building the Future.
 
 *"Security is not a product, but a process. I build both the shield and the sword."*
 
