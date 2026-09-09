@@ -150,12 +150,3 @@ Open to internships, security roles and full-stack work.
 
 <sub>
 
-**Full setup:**
-1. In `github.com/DELHIKRISHNAN/DELHIKRISHNAN`, create a folder `assets/` at the repo root and upload all 6 PNGs from this response into it.
-2. Replace `README.md` with this file, commit to `main`.
-3. Create `.github/workflows/snake.yml` with the workflow from this response.
-4. Settings → Actions → General → Workflow permissions → **Read and write permissions** → Save.
-5. Actions tab → "Generate Snake Animation" → Run workflow (manual trigger, don't wait for the 12-hour cron).
-6. Confirm an `output` branch appears with the two SVGs in it — that's what both image tags above are pointing at.
-
-</sub>
