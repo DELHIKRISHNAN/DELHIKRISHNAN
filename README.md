@@ -1,186 +1,190 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,25:0F3460,50:16A085,75:1ABC9C,100:2ECC71&text=Delhi%20Krishnan%20S&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20IoT&descSize=18&descAlignY=55&descAlign=50" />
+
+</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:00D9FF,50:7B2CBF,100:B57EDC&text=Vishwa%20Sabaris&fontSize=50&fontColor=FFFFFF&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%F0%9F%94%90+Cybersecurity+Researcher+%7C+%F0%9F%8C%90+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Computer+Vision+Engineer+%7C+%F0%9F%8C%B1+IoT+Innovator;%F0%9F%8F%86+CISCO+thingQbator+Winner+%7C+%F0%9F%8C%8D+TUM+Germany+Awardee;%E2%9A%A1+Building+NIGHTFALL+%7C+ZORO+Framework+%7C+URISS" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=DELHIKRISHNAN&label=Profile%20Views&color=1ABC9C&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/DELHIKRISHNAN?label=Followers&style=for-the-badge&color=16A085&logo=github&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/DELHIKRISHNAN?affiliations=OWNER&style=for-the-badge&color=2ECC71&logo=github&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+###  Securing Systems •  Building Applications •  Engineering Intelligence •  Innovating IoT
+
+</div>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+<br>
+
+ **B.Tech in Computer Science & Business Systems** @ KIT-Kalaignarkarunanidhi Institute of Technology (CGPA: 8.2)
+
+ Passionate about **Web Application Security** — VAPT, OWASP Top 10, Penetration Testing
+
+ Experienced **Full-Stack Developer** — Django, React.js, Node.js, Express.js
+
+ Building **AI & Computer Vision** systems — OpenCV, CNN, SVM, NLP, OCR
+
+ Creating **IoT solutions** — From smart water monitoring to drone-based agriculture
+
+ **CISCO thingQbator Winner** — Rs. 5,00,000 Seed Funding
+
+ **TUM Germany Top Performer** — EUR 1,400 Award
+
+ Currently building **[NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL)** — An agentic penetration testing platform
+
+ Coimbatore, Tamil Nadu, India
+
+<br clear="right"/>
+
+---
+
+##  Tech Arsenal
+
+<div align="center">
+
+###  Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,java" />
+</p>
+
+###  Cybersecurity & Networking
+
+<p>
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VAPT-1ABC9C?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuclei-7B61FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netcat-16A085?style=for-the-badge"/>
+</p>
+
+###  Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,expressjs,react,django,flask" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+###  Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,postgres" />
+</p>
+
+###  AI & Computer Vision
+
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SVM-1ABC9C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-7B2CBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OCR-E34F26?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sentence_BERT-FFCA28?style=for-the-badge"/>
+</p>
+
+###  Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows" />
+</p>
+
+###  Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,raspberrypi" />
+</p>
+
+###  Networking Protocols
+
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-0D1117?style=for-the-badge&logo=cisco&logoColor=1ABC9C"/>
+  <img src="https://img.shields.io/badge/DNS-0D1117?style=for-the-badge&logo=cloudflare&logoColor=1ABC9C"/>
+  <img src="https://img.shields.io/badge/LDAP-0D1117?style=for-the-badge&logoColor=1ABC9C"/>
+  <img src="https://img.shields.io/badge/SMB-0D1117?style=for-the-badge&logoColor=1ABC9C"/>
+  <img src="https://img.shields.io/badge/Kerberos-0D1117?style=for-the-badge&logoColor=1ABC9C"/>
+  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-0D1117?style=for-the-badge&logo=letsencrypt&logoColor=1ABC9C"/>
+  <img src="https://img.shields.io/badge/RPC-0D1117?style=for-the-badge&logoColor=1ABC9C"/>
+</p>
+
+</div>
+
+---
+
+##  Work Experience
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Nanvi_Technologies-Software_Development_Intern-1ABC9C?style=for-the-badge&logo=building-construction&logoColor=white"/>
 
 </div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=900&lines=AI+%7C+Cloud+%7C+DevOps+Engineer;Building+Production+Ready+AI+Systems;Terraform+%7C+AWS+%7C+Kubernetes+%7C+GenAI;Cloud+Automation+%7C+Infrastructure+as+Code;MLOps+%7C+LLMOps+%7C+Platform+Engineering;Always+Learning+and+Building" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=VishwaSabaris&label=Profile%20Views&color=7B2CBF&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/VishwaSabaris?label=Followers&style=for-the-badge&color=B57EDC" />
-
-<img src="https://img.shields.io/github/stars/VishwaSabaris?affiliations=OWNER&style=for-the-badge&color=00F5FF" />
-
-</div>
+>  Built an **AI-powered Resume Analyzer** using Sentence-BERT for semantic resume-JD matching — **92% matching accuracy**
+>
+>  Integrated **OCR** to extract text from PDF and image-based resumes for automated analysis
+>
+>  Developed backend using **Django** and responsive frontend using **React.js**
+>
+>  Implemented resume parsing & skill extraction — **reduced manual screening by 70%**
+>
+> **Tech Stack:** `Django` `React.js` `Sentence-BERT` `OCR` `Python` `REST API`
 
 ---
 
-<div align="center">
-
-### 🚀 Building AI Systems • Automating Cloud • Engineering Infrastructure
-
-</div>
-
-#  About Me
-
-<div align="center">
-
-Passionate Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning.
-
-Focused on building production-ready AI systems, cloud-native applications, automation platforms, DevOps pipelines, and scalable infrastructure.
-
-Combining AI, Cloud, DevOps, and Software Engineering to solve real-world problems through practical projects and continuous learning.
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/_ARTIFICIAL_INTELLIGENCE-00E5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/_GENERATIVE_AI-B57EDC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/_CLOUD_COMPUTING-7B2CBF?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/_DEVOPS_ENGINEERING-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/_KUBERNETES-9D4EDD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/_PLATFORM_ENGINEERING-39FF14?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/_MACHINE_LEARNING-7209B7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/_MLOPS_&_LLMOPS-C77DFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/_AI_AGENTS-560BAD?style=for-the-badge" />
-
-</div>
-
-
-
-# 🛠 Tech Stack
-
-## Cloud Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-## DevOps & Containerization
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,githubactions" />
-</p>
-
-## Programming & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,flask" />
-</p>
-
-## AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Generative%20AI-B57EDC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-9B5DE5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-6A0DAD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Whisper-7B2CBF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MobileNetV2-5A189A?style=for-the-badge"/>
-</p>
-
-## Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-## Monitoring & Observability
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
-
-## Operating Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
-</p>
-
-## Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter" />
-</p>
-
-## Domains
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-B57EDC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-6A0DAD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DevOps-9B5DE5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps-7B2CBF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMOps-5A189A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Platform%20Engineering-3C096C?style=for-the-badge"/>
-</p>
-
----
-
-# 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 
 <td width="50%">
 
-## ☁️ AWS 3-Tier HA Infrastructure
+###  [NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL)
+**Agentic Penetration Testing Platform**
 
-**IaC • AWS • High Availability**
+ 1 •  1
 
-Architected a production-grade AWS infrastructure using Terraform.
+An agentic, reasoning-driven penetration testing platform that autonomously discovers, triages, and exploits web vulnerabilities.
 
-### Features
-
-- VPC
-- Public & Private Subnets
-- Auto Scaling Groups
-- Application Load Balancer
-- Multi-AZ RDS
-- GitHub Actions CI/CD
-
-**Tech Stack**
-
-`Terraform` `AWS` `EC2` `ALB` `RDS`
+`Python` `Security` `AI Agents` `Automation`
 
 </td>
 
 <td width="50%">
 
-## ☸️ EKS Flask Deployment
+###  [ZORO Framework](https://github.com/DELHIKRISHNAN/zoro_framework)
+**Web Security Scanner**
 
-**Kubernetes • GitOps • Production Deployment**
+A modular, high-performance Python web security scanner for authorised penetration testing and security audits. Performs passive analysis and safe, non-destructive active checks.
 
-Containerized Flask application deployed on Amazon EKS.
-
-### Features
-
-- Dockerized Application
-- Kubernetes Manifests
-- Helm Charts
-- GitHub Actions Pipeline
-- Amazon EKS
-
-**Tech Stack**
-
-`Docker` `Kubernetes` `Helm` `EKS`
+`Python` `OWASP` `Security Testing`
 
 </td>
 
@@ -190,42 +194,23 @@ Containerized Flask application deployed on Amazon EKS.
 
 <td width="50%">
 
-## 🤖 Generative AI Suite
+###  [Resume Screening Portal](https://github.com/DELHIKRISHNAN/Resume-Screening-Portal)
+**AI-Powered Resume Analyzer**
 
-**RAG • Multimodal AI • LLMs**
+AI-powered Resume Analyzer that evaluates resumes against job descriptions, extracts key skills, highlights gaps, and provides actionable improvement suggestions.
 
-Collection of Generative AI internship projects.
-
-### Projects
-
-- System Prompt Architect
-- RAG Document Analyst
-- Multimodal Content Engine
-
-**Tech Stack**
-
-`RAG` `FAISS` `Whisper` `Streamlit`
+`Python` `Sentence-BERT` `Django` `React.js`
 
 </td>
 
 <td width="50%">
 
-## 🌱 Plant Image Classifier
+###  [NDVI Crop Monitoring Drone](https://github.com/DELHIKRISHNAN/ndvi-crop-monitoring-drone)
+**Precision Agriculture System**
 
-**Deep Learning • Computer Vision**
+Drone-based NDVI crop monitoring using Raspberry Pi 5, Pixhawk Cube Orange, and OpenCV. Combines aerial vegetation analysis with ground-based soil sensing.
 
-Transfer learning model using MobileNetV2.
-
-### Features
-
-- Data Augmentation
-- Transfer Learning
-- Fine Tuning
-- Plant Classification
-
-**Tech Stack**
-
-`TensorFlow` `Keras` `MobileNetV2`
+`Python` `OpenCV` `Raspberry Pi` `Computer Vision`
 
 </td>
 
@@ -235,43 +220,23 @@ Transfer learning model using MobileNetV2.
 
 <td width="50%">
 
-## 🎙 AI Voice Agent
+###  [Smart Water Management](https://github.com/DELHIKRISHNAN/S-W-M-Portal)
+**IoT-Based Monitoring System**
 
-**Speech Recognition • NLP**
+Real-time household water consumption tracking with Firebase integration. Features interactive Chart.js dashboards with daily, weekly, and monthly consumption trends.
 
-Tamil voice-based restaurant ordering system.
-
-### Features
-
-- Speech-to-Text
-- Intent Classification
-- Voice Responses
-- Automated Email Confirmation
-
-**Tech Stack**
-
-`Whisper` `Python` `NLP` `gTTS`
+`Node.js` `Express.js` `Firebase` `Chart.js`
 
 </td>
 
 <td width="50%">
 
-## 📧 Email Automation Platform
+###  [Microplastic Detector](https://github.com/DELHIKRISHNAN/MICROPLASTIC_DETECTOR)
+**Computer Vision Detection System**
 
-**Web Scraping • Automation**
+Portable computer vision system for automated microplastic detection from water samples. Uses CNN and SVM achieving **86% classification accuracy** on 1000+ labeled images.
 
-Automated hackathon discovery and notification system.
-
-### Features
-
-- Event Scraping
-- Filtering
-- Email Generation
-- Workflow Automation
-
-**Tech Stack**
-
-`Python` `n8n` `Automation`
+`Python` `CNN` `SVM` `OpenCV`
 
 </td>
 
@@ -281,43 +246,23 @@ Automated hackathon discovery and notification system.
 
 <td width="50%">
 
-## 🧠 Memory Matrix Game
+###  [URISS](https://github.com/DELHIKRISHNAN/URISS)
+**Underwater Search & Rescue ROV**
 
-**C Programming • Memory Management**
+Compact Underwater Remotely Operated Vehicle designed for search and rescue missions in turbulent water bodies. Features real-time video monitoring and autonomous navigation.
 
-Console-based game demonstrating pointers and dynamic memory.
-
-### Features
-
-- Dynamic Matrices
-- Pointer References
-- Memory Allocation
-- Score Tracking
-
-**Tech Stack**
-
-`C` `Pointers` `Memory Management`
+`Python` `Robotics` `Computer Vision`
 
 </td>
 
 <td width="50%">
 
-## 🌸 Iris Data Classification
+###  [Incubation Portal](https://github.com/DELHIKRISHNAN/INCUBATION-PORTAL)
+**Startup Incubation Platform**
 
-**Machine Learning • Classification**
+Web-based platform for startup incubation management with comprehensive features for mentors, startups, and administrators.
 
-Interactive ML application using Iris dataset.
-
-### Features
-
-- KNN Classification
-- Feature Scaling
-- Streamlit UI
-- Real-Time Predictions
-
-**Tech Stack**
-
-`Scikit-Learn` `Python` `Streamlit`
+`HTML` `CSS` `JavaScript`
 
 </td>
 
@@ -327,57 +272,73 @@ Interactive ML application using Iris dataset.
 
 ---
 
-
-# 🎯 Current Focus
-
-## ☁️ Cloud Native Infrastructure
-
-- AWS
-- Terraform
-- Docker
-- Kubernetes
-- Helm
-
-## 🤖 AI Systems
-
-- RAG Pipelines
-- Vector Databases
-- AI Agents
-- LLMOps
-
-## 📊 Observability
-
-- Prometheus
-- Grafana
-- ELK Stack
-
-## 🚀 Platform Engineering
-
-- Kafka
-- Redis
-- Internal Developer Platforms
-
----
-
-# 🏆 Certifications & Programs
-
-| Credential | Domain |
-|------------|---------|
-| 🎓 Generative AI Internship Program | Generative AI |
-| ☁ Microsoft Learn Certifications | Cloud & AI |
-| 📚 NPTEL Courses | Computer Science |
-| 🚀 AWS Learning Paths | Cloud Computing |
-| 🤖 AI/ML Academic Projects | Machine Learning |
-
----
-
-# 📈 GitHub Analytics
+##  Achievements & Awards
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VishwaSabaris&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/_TUM_Germany-Global_Sustainability_Challenge_Top_Performer-2ECC71?style=for-the-badge"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaSabaris&layout=compact&theme=tokyonight&hide_border=true"/>
+<br>
+
+<img src="https://img.shields.io/badge/_EUR_1,400_Award-TUM_Germany-16A085?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/_CISCO_thingQbator-Cohort_8_Winner-1ABC9C?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/_Rs._5,00,000_Seed_Funding-CISCO_×_NASSCOM_Foundation-16A085?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/_Siemens_Design_Challenge-2026_Top_Performer-2ECC71?style=for-the-badge&logo=siemens&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/_Siemens_×_Sony-Immersive_Design-16A085?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🇮🇳_Smart_India_Hackathon-SIH_2025_Finalist-1ABC9C?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/_AICTE-Ministry_of_Education's_Innovation_Cell-16A085?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/_IIT_Madras-Top_Recognition-2ECC71?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/_Rs._10,000_Award-IIT_PALS_InnoWAH-16A085?style=for-the-badge"/>
+
+</div>
+
+---
+
+##  Certifications
+
+<div align="center">
+
+|  Certification |  Issuing Organization |
+|:---|:---|
+|  **Python Essentials I & II** | Cisco Network Academy |
+|  **Cisco Certified Networking & Enterprise Security (CCNA)** | Cisco Networking Academy |
+|  **Apply AI: Analyze Customer Reviews** | Cisco Network Academy |
+
+</div>
+
+---
+
+##  GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DELHIKRISHNAN&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=1ABC9C&icon_color=2ECC71&text_color=C9D1D9&ring_color=1ABC9C"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELHIKRISHNAN&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=1ABC9C&text_color=C9D1D9"/>
 
 </div>
 
@@ -385,37 +346,7 @@ Interactive ML application using Iris dataset.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=VishwaSabaris&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/VishwaSabaris/VishwaSabaris/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vishwa-sabaris-aa487837b/">
-<img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:vishwasabaris655@gmail.com">
-<img src="https://img.shields.io/badge/Drop%20Me%20An%20Email-B57EDC?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/VishwaSabaris">
-<img src="https://img.shields.io/badge/Explore%20My%20GitHub-3C096C?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://streak-stats.demolab.com?user=DELHIKRISHNAN&theme=algolia&hide_border=true&background=0D1117&ring=1ABC9C&fire=2ECC71&currStreakLabel=1ABC9C&sideLabels=1ABC9C&dates=C9D1D9"/>
 
 </div>
 
@@ -423,9 +354,59 @@ Interactive ML application using Iris dataset.
 
 <div align="center">
 
-📍 Coimbatore, Tamil Nadu, India
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DELHIKRISHNAN&bg_color=0D1117&color=1ABC9C&line=2ECC71&point=FFFFFF&area_color=1ABC9C&area=true&hide_border=true"/>
 
-Open to internships, AI engineering opportunities, cloud projects, DevOps roles, and open-source collaborations.
+</div>
+
+---
+
+##  Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/DELHIKRISHNAN/DELHIKRISHNAN/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+##  Current Focus
+
+<div align="center">
+
+```
+ Cybersecurity          →  Building NIGHTFALL & ZORO — Agentic security tools
+ AI & Computer Vision   →  Advancing microplastic detection & drone vision systems
+ Full-Stack Development →  Scaling IoT platforms & real-time dashboards
+ Robotics & IoT         →  Underwater ROV systems & precision agriculture
+ Competitions           →  Hackathons, Innovation Challenges & Open Source
+```
+
+</div>
+
+---
+
+##  Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/delhi-krishnan-s/">
+<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2">
+</a>
+&nbsp;
+<a href="mailto:delhikrishnan262006@gmail.com">
+<img src="https://img.shields.io/badge/Drop_Me_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335">
+</a>
+&nbsp;
+<a href="https://github.com/DELHIKRISHNAN">
+<img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717">
+</a>
+
+<br><br>
+
+ **Coimbatore, Tamil Nadu, India**
+
+ Open to **internships**, **cybersecurity roles**, **full-stack opportunities**, and **open-source collaborations**
 
 </div>
 
@@ -433,8 +414,12 @@ Open to internships, AI engineering opportunities, cloud projects, DevOps roles,
 
 <div align="center">
 
-## 💜 Automating Infrastructure. Building Intelligence.
+##  Securing Systems. Engineering Intelligence. Building the Future.
 
-*"Infrastructure is the canvas. AI is the art. I build both."*
+*"Security is not a product, but a process. I build both the shield and the sword."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0F3460,50:16A085,75:1ABC9C,100:2ECC71&height=120&section=footer"/>
 
 </div>
