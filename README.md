@@ -1,4 +1,4 @@
-> **Before this renders:** upload the `assets` folder (6 PNGs) from this response into the root of `github.com/DELHIKRISHNAN/DELHIKRISHNAN`, and put `snake.yml` at `.github/workflows/snake.yml`. Full steps at the bottom of this file.
+
 
 <div align="center">
 <img src="assets/hero_bw.png" width="820" />
