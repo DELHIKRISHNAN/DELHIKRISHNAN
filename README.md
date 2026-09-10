@@ -133,9 +133,9 @@ Platform for managing a startup incubation cohort.
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DELHIKRISHNAN/DELHIKRISHNAN/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DELHIKRISHNAN/DELHIKRISHNAN/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DELHIKRISHNAN/DELHIKRISHNAN/output/pacman-contribution-graph.svg"> </picture>
 ### 07 — CONTACT
 
-<a href="https://www.linkedin.com/in/delhi-krishnan-s/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:delhikrishnan262006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/DELHIKRISHNAN"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/delhi-krishnan/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" /></a><br>
+<a href="mailto:delhikrishnan262006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white" /></a><br>
+<a href="https://github.com/DELHIKRISHNAN"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" /></a><br>
 
 Open to internships, security roles and full-stack work.
 
