@@ -34,7 +34,7 @@ Daily driver is Kali on Linux, Ubuntu on the Pi boards.<br>
 
 **[NIGHTFALL](https://github.com/DELHIKRISHNAN/NIGHTFALL)** — an agentic penetration testing platform that reasons through recon, triage and exploitation instead of running a fixed script.
 
-Also maintaining **[ZORO](https://github.com/DELHIKRISHNAN/zoro_framework)**, a web security scanner for authorised testing, and a **[drone-based crop monitoring](https://github.com/DELHIKRISHNAN/ndvi-crop-monitoring-drone)** rig on a Raspberry Pi 5 + Pixhawk.
+Also maintaining<br> **[ZORO](https://github.com/DELHIKRISHNAN/zoro_framework)**, a web security scanner for authorised testing, and<br> a **[drone-based crop monitoring](https://github.com/DELHIKRISHNAN/ndvi-crop-monitoring-drone)** rig on a Raspberry Pi 5 + Pixhawk.
 
 <br clear="left"/>
 
